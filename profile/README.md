@@ -23,18 +23,18 @@
 
 > ### 📜 **MỤC LỤC**
 >
-> 1.  [**Về Tụi Mình**](#1-về-tụi-mình-🇻🇳)
-> 2.  [**Hệ Sinh Thái Công Cụ**](#2-hệ-sinh-thái-công-cụ-🇻🇳)
+> 1.  [**Về Tụi Mình**](#về-tụi-mình-🇻🇳)
+> 2.  [**Hệ Sinh Thái Công Cụ**](#hệ-sinh-thái-công-cụ-🇻🇳)
 
 ---
 
-### **1. Về Tụi Mình 🇻🇳**
+### **Về Tụi Mình 🇻🇳**
 
 **Doraemon Vietnam Fansub (DVFS)** là một tập thể những người trẻ được thành lập từ năm 2020 với một tình yêu mãnh liệt dành cho Doraemon. Tụi mình hoạt động phi lợi nhuận với một sứ mệnh duy nhất: lan tỏa những giá trị nhân văn, những bài học về tình bạn, và văn hóa Doraemon đến với cộng đồng.
 
 > ***"Tụi mình tin rằng, Doraemon không chỉ là ký ức tuổi thơ, mà còn là một người bạn đồng hành cùng chúng ta lớn lên."***
 
-### **2. Hệ Sinh Thái Công Cụ 🇻🇳**
+### **Hệ Sinh Thái Công Cụ 🇻🇳**
 
 Đây là những công cụ cốt lõi trong quy trình làm việc của tụi mình, giúp tạo ra những sản phẩm chất lượng nhất.
 
@@ -71,18 +71,18 @@
 
 > ### 📜 **TABLE OF CONTENTS**
 >
-> 1.  [**About Us**](#1-about-us-🇬🇧)
-> 2.  [**Our Tool Ecosystem**](#2-our-tool-ecosystem-🇬🇧)
+> 1.  [**About Us**](#about-us-🇬🇧)
+> 2.  [**Our Tool Ecosystem**](#our-tool-ecosystem-🇬🇧)
 
 ---
 
-### **1. About Us 🇬🇧**
+### **About Us 🇬🇧**
 
 **Doraemon Vietnam Fansub (DVFS)** is a collective of young individuals established in 2020, united by an immense love for Doraemon. We operate as a non-profit group with a singular mission: to spread the humanistic values, lessons on friendship, and the culture of Doraemon to the community.
 
 > ***"We believe that Doraemon is not just a childhood memory, but a companion who grows up with us."***
 
-### **2. Our Tool Ecosystem 🇬🇧**
+### **Our Tool Ecosystem 🇬🇧**
 
 These are the core tools in our workflow, helping us create the highest quality products.
 
@@ -119,18 +119,18 @@ These are the core tools in our workflow, helping us create the highest quality 
 
 > ### 📜 **目次 (Table of Contents)**
 >
-> 1.  [**私たちについて**](#1-私たちについて-🇯🇵)
-> 2.  [**ツールエコシステム**](#2-ツールエコシステム-🇯🇵)
+> 1.  [**私たちについて**](#私たちについて-🇯🇵)
+> 2.  [**ツールエコシステム**](#ツールエコシステム-🇯🇵)
 
 ---
 
-### **1. 私たちについて 🇯🇵**
+### **私たちについて 🇯🇵**
 
 **Doraemon Vietnam Fansub (DVFS)** は、2020年に設立された、ドラえもんへの熱い情熱で結ばれた若者たちのグループです。私たちは非営利団体として活動しており、その使命はただ一つ、人間的価値、友情の教訓、そしてドラえもん文化をコミュニティに広めることです。
 
 > ***"私たちは、ドラえもんは単なる子供時代の思い出ではなく、私たちと共に成長する仲間であると信じています。"***
 
-### **2. ツールエコシステム 🇯🇵**
+### **ツールエコシステム 🇯🇵**
 
 これらは私たちのワークフローの中核となるツールであり、最高品質の製品を生み出すのに役立ちます。
 
