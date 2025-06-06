@@ -16,6 +16,13 @@
 
 ---
 
+### 📖 Hướng Dẫn Đọc / How to Read / 読み方ガイド
+Tài liệu này được chia thành các ngôn ngữ khác nhau. Vui lòng nhấn vào mũi tên (▶) bên dưới để mở nội dung bạn muốn xem. <br>
+This document is divided into different languages. Please click the arrow (▶) below to expand the content you wish to view. <br>
+このドキュメントは各言語に分かれています。ご覧になりたい内容の矢印（▶）をクリックして展開してください。
+
+---
+
 <details>
 <summary><strong><font size="4">🇻🇳 Tiếng Việt (Vietnamese)</font></strong></summary>
 
@@ -25,6 +32,7 @@
 >
 > 1.  **Về Tụi Mình**
 > 2.  **Hệ Sinh Thái Công Cụ**
+> 3.  **Môi Trường Làm Việc**
 
 ---
 
@@ -64,6 +72,26 @@
 *   **MPC-HC / PotPlayer / VLC:** *Bộ ba trình phát video.* Dùng để kiểm tra chất lượng tệp đầu vào (raw) và thành phẩm cuối cùng.
 *   **Google Gemini API:** *Trợ lý thông minh.* **Lưu ý:** Chỉ dùng để hỗ trợ kiểm tra chéo thông tin sau khi con người đã hoàn thành.
 
+### **Môi Trường Làm Việc**
+Để đảm bảo chất lượng và tốc độ, tụi mình làm việc trên một hệ thống đa dạng.
+
+#### **Thiết Bị Làm Việc Cá Nhân**
+*   **Điện thoại Android:**
+    *   `CPU:` Thường là MediaTek
+    *   `RAM:` 4GB trở lên
+*   **Laptop Windows:**
+    *   `CPU:` Thường là Intel
+    *   `RAM:` 16GB trở lên
+
+#### **Máy Chủ Cloud**
+*   **Hệ điều hành:** Ubuntu / Windows
+*   **CPU:** AMD / Intel (x64)
+*   **RAM:** Lên đến 300GB
+*   **GPU:** NVIDIA (L40S, RTX A6000) & Intel QSV
+*   **Disk:** Lên đến 1000GB
+
+> 💡 **Lưu ý:** Hệ thống máy chủ Cloud được đặt tại các **nhà cung cấp bí mật**, linh hoạt giữa ảo hóa và vật lý tùy theo nhu cầu để đảm bảo hiệu suất và an toàn.
+
 </details>
 
 ---
@@ -77,6 +105,7 @@
 >
 > 1.  **About Us**
 > 2.  **Our Tool Ecosystem**
+> 3.  **Working Environment**
 
 ---
 
@@ -116,6 +145,26 @@ These are the core tools in our workflow, helping us create the highest quality 
 *   **MPC-HC / PotPlayer / VLC:** *The video player trio.* Used for quality checking of raw input files and the final product.
 *   **Google Gemini API:** *The intelligent assistant.* **Note:** Used only for cross-checking information after human work is complete.
 
+### **Working Environment**
+To ensure quality and speed, we work on a diverse range of systems.
+
+#### **Personal Working Devices**
+*   **Android Phones:**
+    *   `CPU:` Usually MediaTek
+    *   `RAM:` 4GB or more
+*   **Windows Laptops:**
+    *   `CPU:` Usually Intel
+    *   `RAM:` 16GB or more
+
+#### **Cloud Servers**
+*   **OS:** Ubuntu / Windows
+*   **CPU:** AMD / Intel (x64)
+*   **RAM:** Up to 300GB
+*   **GPU:** NVIDIA (L40S, RTX A6000) & Intel QSV
+*   **Disk:** Up to 1000GB
+
+> 💡 **Note:** Our Cloud server system is hosted by **secret providers**, with a flexible mix of virtual and physical resources depending on our needs to ensure performance and security.
+
 </details>
 
 ---
@@ -129,6 +178,7 @@ These are the core tools in our workflow, helping us create the highest quality 
 >
 > 1.  **私たちについて**
 > 2.  **ツールエコシステム**
+> 3.  **作業環境**
 
 ---
 
@@ -167,5 +217,25 @@ These are the core tools in our workflow, helping us create the highest quality 
 *   **GitHub Actions:** *自動化されたワークフロー。* テスト、ビルド、デプロイなどのCI/CDパイプラインを自動化します。
 *   **MPC-HC / PotPlayer / VLC:** *ビデオプレーヤー三人衆。* RAW入力ファイルと最終成果物の品質チェックに使用します。
 *   **Google Gemini API:** *インテリジェントアシスタント。* **注:** 人間の作業完了後、情報確認の支援にのみ使用されます。
+
+### **作業環境**
+品質とスピードを確保するため、私たちは多様なシステムで作業しています。
+
+#### **個人の作業用デバイス**
+*   **Androidスマートフォン:**
+    *   `CPU:` 主にMediaTek
+    *   `RAM:` 4GB以上
+*   **WindowsノートPC:**
+    *   `CPU:` 主にIntel
+    *   `RAM:` 16GB以上
+
+#### **クラウドサーバー**
+*   **OS:** Ubuntu / Windows
+*   **CPU:** AMD / Intel (x64)
+*   **RAM:** 最大300GB
+*   **GPU:** NVIDIA (L40S, RTX A6000) & Intel QSV
+*   **ディスク:** 最大1000GB
+
+> 💡 **注:** クラウドサーバーシステムは**秘密のプロバイダー**を利用しており、需要に応じて仮想・物理リソースを柔軟に使い分けています。
 
 </details>
